@@ -44,7 +44,7 @@ const linksList = [
     title: 'Registrierung',
     caption: 'Neues Konto anlegen',
     icon: 'school',
-    link: '',
+    link: 'https://www.hochschule-ruhr-west.de/schnelleinstieg/suche/',
   },
   {
     title: 'Wer hilft bei Problemen?',
