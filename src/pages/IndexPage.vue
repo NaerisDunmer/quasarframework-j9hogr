@@ -3,7 +3,7 @@
     Guten Tag!
     Bitte melden Sie sich an:
     <br>
-    <q-input v-model="name" color="blue" label="Benutzername" filled></q-input>
+    <q-input v-model="name" color="blue" label="Benutzername" filled>Benutzername:</q-input>
     <br>
     <q-input v-model="passwort" color="blue" label="Passwort" filled></q-input>
   </q-page>
