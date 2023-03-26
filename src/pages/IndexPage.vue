@@ -1,6 +1,5 @@
 <template>
   <q-page class="column flex-center">
-    <align=center>
     Guten Tag!
     <br>
     Bitte melden Sie sich an:
