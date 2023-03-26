@@ -3,6 +3,7 @@
     Guten Tag!
     Bitte melden Sie sich an:
     <q-input v-model="name"></q-input>
+    <q-input v-model="passwort"></q-input>
   </q-page>
 </template>
 
