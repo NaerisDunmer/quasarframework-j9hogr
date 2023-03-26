@@ -41,6 +41,12 @@ import EssentialLink from 'components/EssentialLink.vue';
 
 const linksList = [
   {
+    title: 'Anmeldung',
+    caption: 'Bei bestehendem Konto anmelden',
+    icon: 'school',
+    link: 'https://www.hochschule-ruhr-west.de/schnelleinstieg/suche/',
+  },
+  {
     title: 'Registrierung',
     caption: 'Neues Konto anlegen',
     icon: 'school',
