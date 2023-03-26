@@ -6,7 +6,7 @@
     Bitte melden Sie sich an:
     <br>
     <br>
-    <q-input v-model="name" color="blue" label="Benutzername" filled>
+    <q-input v-model="name" color="#2f718a" label="Benutzername" filled>
     </q-input>
     <br>
     <q-input v-model="passwort" color="blue" label="Passwort" filled>
