@@ -1,6 +1,6 @@
 <template>
   <q-page class="column flex-center">
-    Guten Tag! </br>
+    Guten Tag!
     Bitte melden Sie sich an:
     <q-input v-model="name"></q-input>
   </q-page>
