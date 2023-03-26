@@ -41,6 +41,12 @@ import EssentialLink from 'components/EssentialLink.vue';
 
 const linksList = [
   {
+    title: 'Wer hilft bei Problemen?',
+    caption: 'Support kontaktieren',
+    icon: 'record_voice_over',
+    link: 'https://www.hochschule-ruhr-west.de/schnelleinstieg/kontakt/',
+  },
+  {
     title: 'Docs',
     caption: 'quasar.dev',
     icon: 'school',
