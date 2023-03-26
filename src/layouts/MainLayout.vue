@@ -1,6 +1,6 @@
 <template>
-  <q-layout view="lHh Lpr lFf" color="blue-12">
-    <q-header elevated>
+  <q-layout view="lHh Lpr lFf">
+    <q-header class="bg-blue-12" elevated>
       <q-toolbar>
         <q-btn
           flat
