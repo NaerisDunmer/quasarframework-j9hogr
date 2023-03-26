@@ -11,7 +11,7 @@
       track-color="dark"
     >
       <q-avatar size="75px">
-        <img alt="Quasar logo" src="~assets/quasar-logo-inner.svg" />
+        hello ther
       </q-avatar>
     </q-knob>
 
