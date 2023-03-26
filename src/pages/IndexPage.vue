@@ -1,11 +1,12 @@
 <template>
   <q-page class="column flex-center">
+    <>
     Guten Tag!
     <br>
     Bitte melden Sie sich an:
-    <br>\n
     <br>
-    <q-input v-model="name" color="#2f718a" label="Benutzername" filled>
+    <br>
+    <q-input v-model="name" color="blue-10" label="Benutzername" filled>
     </q-input>
     <br>
     <q-input v-model="passwort" color="#2f718a" label="Passwort" filled>
