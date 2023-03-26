@@ -1,6 +1,7 @@
 <template>
   <q-page class="column flex-center">
     hello there
+  </q-page>
 </template>
 
 <script setup>
