@@ -3,13 +3,14 @@
     Guten Tag!
     <br>
     Bitte melden Sie sich an:
-    <br>
+    <br>\n
     <br>
     <q-input v-model="name" color="#2f718a" label="Benutzername" filled>
     </q-input>
     <br>
     <q-input v-model="passwort" color="#2f718a" label="Passwort" filled>
     </q-input>
+
   </q-page>
 </template>
 
